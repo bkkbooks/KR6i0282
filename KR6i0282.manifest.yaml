@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0282_000.yaml, hash: 'sha256:a1d1cbd2c952d7501c10894dd8b8bb7ad688e578658b26ec4efb6d86f358bd69'}
-  - {seq: 1, filename: KR6i0282_001.yaml, hash: 'sha256:36a565358277bc348f5830975aab2ffeaaff9edebd4316ee3c911c6ade6d7541'}
+  - {seq: 1, filename: KR6i0282_001.yaml, hash: 'sha256:e376ee52a6ec0ac480e61c8e87692066e4c73ac44e544845166a4d9055218484'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0282_001.markers.yaml, hash: 'sha256:57074c23e9cbb07c0b22b7fca42b7bf4621ebf5d5c532e6d5d79d81148f9b5df'}
+  - {seq: 0, role: markers, filename: assets/KR6i0282_000.markers.yaml, hash: 'sha256:7c6e7ff8fd8c695b6231a044a93ac9efc3dd88f987f12d58e126abbea1e18464'}
+  - {seq: 1, role: markers, filename: assets/KR6i0282_001.markers.yaml, hash: 'sha256:43ae15580593de1ac3596c7c4778a8c13a91cfe2df075d705113be1b9bb1f0ba'}
 table_of_contents:
 - ref:
     seq: 0
@@ -58,7 +59,4 @@ table_of_contents:
   label: 不必定入定入印經
   type: juan
   level: 1
-hash: sha256:ae555fc0026c722afa75e4390e6934698244ba43bb72659501771d2b79dc3500
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b8f63627d7e23ff1c3a31439a829bdbdc99958d29d784821967ef9a6784de84b
