@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0282_000-T.yaml, hash: 'sha256:a1d1cbd2c952d7501c10894dd8b8bb7ad688e578658b26ec4efb6d86f358bd69'}
+  - {seq: 0, filename: KR6i0282_000-T.yaml, hash: 'sha256:63588301378af233e9c41390b19954f21d73bca15b74982aaeb751c2fe4c341d'}
   - {seq: 1, filename: KR6i0282_001-T.yaml, hash: 'sha256:e376ee52a6ec0ac480e61c8e87692066e4c73ac44e544845166a4d9055218484'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0282_000-T.markers.yaml, hash: 'sha256:543f3a109069dd0aaec5a5d33f7a92941dadf6bb2bccf0b903624b25ccdf3209'}
+  - {seq: 0, role: markers, filename: assets/KR6i0282_000-T.markers.yaml, hash: 'sha256:0f16b5815e5034c4e2b1d60c48cfc0dbc4bbed12d17507d7f842a6bfad5dfc19'}
   - {seq: 1, role: markers, filename: assets/KR6i0282_001-T.markers.yaml, hash: 'sha256:fdefcc93a3741e3ed916f1396469328eaeb0a1cd03c0b65a90780416be430037'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6i0282_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 翻譯之記
@@ -45,4 +45,4 @@ table_of_contents:
   label: 不必定入定入印經
   type: juan
   level: 1
-hash: sha256:422fc34071e2ab73394e2891c6b5cd536c396df681f98abe30b0d816a2a2bfff
+hash: sha256:bede362c5023a7579ac73fe1d408d5d0f5ce6d167bfbb1ed9b179f687bc2ebc8
